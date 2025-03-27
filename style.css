@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Open+Sans:wght@400;600&display=swap');
 
-
+/* Основной контент */
 main {
-    padding-top: 120px !important;
+    padding-top: 140px;
+    padding-bottom: 40px;
 }
-
 
 /* Общие стили */
 body {
@@ -73,12 +73,6 @@ nav a#contact-button {
     background-color: #ff7043;
     color: white;
     font-weight: 600;
-}
-
-/* Основной контент */
-main {
-    padding-top: 140px;
-    padding-bottom: 40px;
 }
 
 
