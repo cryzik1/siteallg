@@ -24,20 +24,20 @@ header {
     width: 100%;
     background: linear-gradient(45deg, #8a94fe, #6d42a1);
     color: white;
-    padding: 20px 0;
     text-align: center;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     z-index: 1000;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    padding: 10px 0;
 }
 
 header h1 {
     margin: 0;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 26px;
     letter-spacing: 2px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    font-size: 22px;
 }
 
 /* Навигация */
@@ -49,11 +49,11 @@ nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
-    font-size: 16px;
-    padding: 10px 20px;
     transition: all 0.3s ease;
     border-radius: 30px;
     display: inline-block;
+    padding: 8px 15px;
+    font-size: 14px;
 }
 
 nav a:hover {
@@ -74,7 +74,6 @@ nav a#contact-button {
     color: white;
     font-weight: 600;
 }
-
 
 
 section {
@@ -194,5 +193,4 @@ footer {
         padding-top: 180px;
     }
 }
-
 
