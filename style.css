@@ -2,7 +2,7 @@
 
 
 main {
-    padding-top: 50px !important; /* Уменьши этот отступ */
+    padding-top: 120px !important;
 }
 
 
@@ -185,18 +185,18 @@ footer {
     header {
         padding: 15px 0;
     }
-    
+
     nav a {
         display: block;
         margin: 10px auto;
         width: 80%;
     }
-    
+
     section {
         width: 95%;
         padding: 20px;
     }
-    
+
     main {
         padding-top: 180px;
     }
