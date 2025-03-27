@@ -6,8 +6,6 @@ main {
 }
 
 
-
-
 /* Общие стили */
 body {
     font-family: 'Open Sans', sans-serif;
@@ -112,6 +110,7 @@ h1, h2, h3 {
 }
 
 h2 {
+    color: #4a148c;
     margin-bottom: 25px;
     font-size: 28px;
 }
